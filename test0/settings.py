@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-cpds#enh_2s_9nou!yl@31n(%7@@_z3_#qwg^upu0kwpqcn=)^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hammerhead-app-zfrxy.ondigitalocean.app']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
